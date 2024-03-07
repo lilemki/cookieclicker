@@ -1,0 +1,60 @@
+.CookieClicker {
+  text-align: center;
+  background: linear-gradient(to bottom, #0073e6, #000f3d);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cookieCount {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cookieImage {
+  width: 500px;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.cookieImage:hover {
+  opacity: 1;
+}
+
+.cookieImage.pop {
+  transform: scale(1.2);
+}
+
+.sideButtons {
+  margin-left: 20px;
+}
+
+.upgradeButton, .autoClickerButton {
+  padding: 10px 20px;
+  font-size: 1em;
+  background-color: #61dafb;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 10px; 
+  margin-bottom: 10px; 
+}
+
+.upgradeButton:hover, .autoClickerButton:hover {
+  background-color: #a0d8f7;
+}
+
+.stats {
+  text-align: left;
+  color: white;
+  margin-left: 10px;
+}
