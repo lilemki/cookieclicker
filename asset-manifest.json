@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lilemki/cookieclicker/static/css/main.e4af8d40.css",
+    "main.js": "/lilemki/cookieclicker/static/js/main.a77b0556.js",
+    "static/js/453.356c363d.chunk.js": "/lilemki/cookieclicker/static/js/453.356c363d.chunk.js",
+    "static/media/cookie.png": "/lilemki/cookieclicker/static/media/cookie.7823b361831d3ef7c27f.png",
+    "index.html": "/lilemki/cookieclicker/index.html",
+    "main.e4af8d40.css.map": "/lilemki/cookieclicker/static/css/main.e4af8d40.css.map",
+    "main.a77b0556.js.map": "/lilemki/cookieclicker/static/js/main.a77b0556.js.map",
+    "453.356c363d.chunk.js.map": "/lilemki/cookieclicker/static/js/453.356c363d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4af8d40.css",
+    "static/js/main.a77b0556.js"
+  ]
+}
